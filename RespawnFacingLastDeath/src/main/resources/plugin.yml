@@ -1,0 +1,4 @@
+name: RespawnFacingLastDeath
+version: '${project.version}'
+main: respawnfacinglastdeath.Main
+api-version: 1.18

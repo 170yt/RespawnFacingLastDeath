@@ -1,0 +1,4 @@
+name: RespawnFacingLastDeath
+version: '1.0'
+main: respawnfacinglastdeath.Main
+api-version: 1.18
